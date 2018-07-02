@@ -1,1 +1,1 @@
-<?php echo "Silence is golden";
+<?php gdg "Affari a 4 core";
