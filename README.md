@@ -1,3 +1,3 @@
-# Telegram Echo Bot
+# Telegram GDG REF
 
-This is a sample Telegram Bot written in PHP running on Heroku
+This is a sample Telegram Bot written in PHP for GDG
