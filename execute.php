@@ -96,7 +96,7 @@ function set_referral_URL($url){
 	return $url_edited;
 }
 function set_mike_referral_URL($url){
-	$referral_mike = "miketama-21";
+	$referral_mike = "giochidigiorn-21";
 
 	$url_edited = "";
 	$parsed_url_array = parse_url($url);
@@ -109,7 +109,7 @@ function set_mike_referral_URL($url){
 	return $url_edited;
 }
 function set_dc_referral_URL($url){
-	$referral_dc = "amazonscont0e-21";
+	$referral_dc = "giochidigiorn-21";
 
 	$url_edited = "";
 	$parsed_url_array = parse_url($url);
