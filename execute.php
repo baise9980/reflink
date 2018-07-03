@@ -41,7 +41,7 @@ if(isset($message['text']))
 	$worldsym = json_decode('"\uD83C\uDF0F"');
 	$obj_desc = $text_url_array[0];
 	$short = make_bitly_url($url_affiliate,'ghir0','json');
-	$response = "Ecco il link di $proprietario: $obj_desc\n$worldsym  $short";
+	$response = "Ecco il link di Archdart: $obj_desc\n$worldsym  $short";
 
   }
   elseif(strpos($text, "/mike") === 0 && strlen($text)>6 )
